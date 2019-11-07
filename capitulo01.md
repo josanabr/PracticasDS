@@ -13,7 +13,7 @@ Dentro de los temas que se quieren evidenciar de forma práctica se listan los s
 
 ## Un sistema distribuido se presenta como una sola entidad
 
-En este [enlace](https://github.com/josanabr/vagrant_haproxy.git) se puede descargar el repositorio que le permite crear un balanceador para una granja de servidores web. 
+En este [enlace](https://github.com/josanabr/vagrant_haproxy.git) se puede descargar el repositorio que le permite crear un balanceador para una granja de servidores web, [aquí](https://www.howtoforge.com/tutorial/ubuntu-load-balancer-haproxy/) el fuente de donde se tomaron los pasos para el despliegue automático del balanceador de carga HAProxy. 
 Para usar el código de este repositorio debe ejecutar los siguientes pasos:
 
 Clonar el repositorio
