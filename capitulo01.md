@@ -48,6 +48,7 @@ Apunte su navegador al URl `http://192.168.200.5`.
 
 Para esta práctica se requiere crear dos máquinas virtuales. 
 Usar el siguiente [Vagrantfile](Vagrantfile).
-Una vez las máquinas virtuales han sido desplegadas se procede a ejecutar las actividades descritas en el siguiente [enlace](https://www.tutorialspoint.com/python_network_programming/python_remote_procedure_call.htm).
+Este Vagrantfile requiere para ejecutarse de forma exitosa el script [rpc.sh](rpc.sh).
 
-Haga los ajustes necesarios para que su código corra en el ambiente generado en el `Vagrantfile`.
+Una vez las máquinas virtuales han sido desplegadas se procede a ejecutar las actividades descritas en el siguiente [enlace](https://code-maven.com/rpc-with-python-using-rpyc).
+
